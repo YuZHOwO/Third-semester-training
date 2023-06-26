@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BackGroundMove : Run
+public class BackGroundMove : PlayerController
 {
 
     // Start is called before the first frame update

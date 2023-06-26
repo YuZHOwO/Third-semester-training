@@ -1461,7 +1461,7 @@ GameObject:
   - component: {fileID: 595810340}
   - component: {fileID: 595810342}
   - component: {fileID: 595810341}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tilemap front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2172,7 +2172,7 @@ GameObject:
   - component: {fileID: 904152995}
   - component: {fileID: 904152997}
   - component: {fileID: 904152996}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tilemap (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5240,6 +5240,14 @@ PrefabInstance:
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5349709100476973664, guid: fe125ad4a4976b244b0264009555da4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5349709100476973664, guid: fe125ad4a4976b244b0264009555da4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5349709100476973664, guid: fe125ad4a4976b244b0264009555da4c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11
       objectReference: {fileID: 0}
@@ -5282,6 +5290,14 @@ PrefabInstance:
     - target: {fileID: 7242640370308265560, guid: fe125ad4a4976b244b0264009555da4c, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7483925964585493739, guid: fe125ad4a4976b244b0264009555da4c, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7483925964585493739, guid: fe125ad4a4976b244b0264009555da4c, type: 3}
+      propertyPath: slideSpeed
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
