@@ -7,20 +7,21 @@ TagManager:
   - Enemy
   - Death
   - MoonBackGround
+  - EnemyWeapon
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Item
   - Water
   - UI
   - Ground
   - Player
   - Enemy
   - BackGround
-  - 
-  - 
-  - 
+  - TriggerBox
+  - EnemyTrigger
+  - EnemyWeapon
   - 
   - 
   - 
