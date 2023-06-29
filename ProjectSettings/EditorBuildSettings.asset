@@ -6,9 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Barren.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/SDF/Scenes/open.unity
+    guid: cb03f34b84b3b6f43ae5b2150a466ddc
   - enabled: 1
-    path: Assets/Scenes/SampleScene1.unity
+    path: Assets/SDF/Scenes/story1.unity
+    guid: 27cc60891e6f59848b64119c5adf4dd5
+  - enabled: 1
+    path: Assets/SDF/Scenes/story2.unity
+    guid: 56cf8159ab4dcab42a0624bf20f407c0
+  - enabled: 1
+    path: Assets/SDF/Scenes/story3.unity
+    guid: a6f03d172e4aa4c4f9dd9516a8dec778
+  - enabled: 1
+    path: Assets/SDF/Scenes/story4.unity
+    guid: 7aa4adcf5f5acfe42861718c4e06681c
+  - enabled: 1
+    path: Assets/SDF/Scenes/SampleScene.unity
+    guid: 78dd6b8ffe8835348a4054469bbe561f
+  - enabled: 0
+    path: Assets/YZH/Scenes/Barren.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/YZH/Scenes/SampleScene1.unity
     guid: c07ff6b6e5ee8274fb5bb60a02c92b18
   m_configObjects: {}
