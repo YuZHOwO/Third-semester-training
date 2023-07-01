@@ -8,6 +8,7 @@ TagManager:
   - Death
   - MoonBackGround
   - EnemyWeapon
+  - PlayerWeapon
   layers:
   - Default
   - TransparentFX
